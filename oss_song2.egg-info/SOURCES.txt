@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+oss_song2/__init__.py
+oss_song2/test.py
+oss_song2.egg-info/PKG-INFO
+oss_song2.egg-info/SOURCES.txt
+oss_song2.egg-info/dependency_links.txt
+oss_song2.egg-info/entry_points.txt
+oss_song2.egg-info/requires.txt
+oss_song2.egg-info/top_level.txt
